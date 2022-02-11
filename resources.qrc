@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/eta" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
